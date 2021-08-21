@@ -1,0 +1,11 @@
+.form-container {
+    form {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        gap: 5px;
+
+        button {
+            grid-column: 1 / span 2;
+        }
+    }
+}
