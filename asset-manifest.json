@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app-tecnical-interview/static/css/main.472d369e.chunk.css",
+    "main.js": "/my-app-tecnical-interview/static/js/main.bf7bc26a.chunk.js",
+    "main.js.map": "/my-app-tecnical-interview/static/js/main.bf7bc26a.chunk.js.map",
+    "runtime-main.js": "/my-app-tecnical-interview/static/js/runtime-main.3de8c216.js",
+    "runtime-main.js.map": "/my-app-tecnical-interview/static/js/runtime-main.3de8c216.js.map",
+    "static/js/2.4496fdc3.chunk.js": "/my-app-tecnical-interview/static/js/2.4496fdc3.chunk.js",
+    "static/js/2.4496fdc3.chunk.js.map": "/my-app-tecnical-interview/static/js/2.4496fdc3.chunk.js.map",
+    "static/js/3.8db8c6c7.chunk.js": "/my-app-tecnical-interview/static/js/3.8db8c6c7.chunk.js",
+    "static/js/3.8db8c6c7.chunk.js.map": "/my-app-tecnical-interview/static/js/3.8db8c6c7.chunk.js.map",
+    "index.html": "/my-app-tecnical-interview/index.html",
+    "static/css/main.472d369e.chunk.css.map": "/my-app-tecnical-interview/static/css/main.472d369e.chunk.css.map",
+    "static/js/2.4496fdc3.chunk.js.LICENSE.txt": "/my-app-tecnical-interview/static/js/2.4496fdc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3de8c216.js",
+    "static/js/2.4496fdc3.chunk.js",
+    "static/css/main.472d369e.chunk.css",
+    "static/js/main.bf7bc26a.chunk.js"
+  ]
+}
