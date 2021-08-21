@@ -3,7 +3,7 @@ export class CountriesApi {
 }
 
 export class CustomersApi{
-    static url:string = 'http://localhost:3001/'
+    static url:string = 'http://ec2-3-128-203-154.us-east-2.compute.amazonaws.com:3001/'
 
     static add:string = CustomersApi.url+'signup'
     
